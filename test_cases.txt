@@ -1,0 +1,13 @@
+PASSWORD STRENGTH CHECKER - TEST CASES
+
+Test Case 1:
+Password: 12345
+Expected Result: Weak
+
+Test Case 2:
+Password: akshaya123
+Expected Result: Moderate
+
+Test Case 3:
+Password: Akshaya@123
+Expected Result: Strong
