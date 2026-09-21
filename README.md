@@ -40,11 +40,3 @@ Each satisfied condition gives 1 point.
 | 3–4 | Moderate |
 | 5 | Strong |
 
-## How to Run
-
-Make sure Python is installed.
-
-Open the terminal in the project folder and run:
-
-```bash
-python password_checker.py
